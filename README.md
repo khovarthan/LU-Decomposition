@@ -55,9 +55,9 @@ print(X)
 
 ## Output:
 (i) To find the L and U matrix
-<img width="1152" height="437" alt="MA EX;5 1" src="https://github.com/user-attachments/assets/11091c98-8148-4ef9-bb22-2ab673afa75b" />
+<img width="1167" height="850" alt="image" src="https://github.com/user-attachments/assets/99a3f5b7-f4bb-4f41-a4c3-2b1f656a5cfd" />
 (ii) To find the LU Decomposition of a matrix
-<img width="1064" height="238" alt="MA EX;5 2" src="https://github.com/user-attachments/assets/908c1b71-3072-49af-bccd-ca90012219e2" />
+<img width="1225" height="852" alt="image" src="https://github.com/user-attachments/assets/8c48ebc8-2318-4dde-9fc0-970d1386ebf7" />
 
 
 ## Result:
